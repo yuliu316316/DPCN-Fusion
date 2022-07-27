@@ -2,15 +2,13 @@
 
 This package contains the source code which is associated with the following paper:
 
-Wei Tang, Yu Liu, Juan Cheng, Chang Li, Xun Chen, "Green Fluorescent Protein and Phase Contrast Image Fusion via Detail Preserving Cross Network", submitted to IEEE Transactions on Computational Imaging, 2021. (under review, second round)
+Wei Tang, Yu Liu, Juan Cheng, Chang Li, Xun Chen, "Green Fluorescent Protein and Phase Contrast Image Fusion via Detail Preserving Cross Network", IEEE Transactions on Computational Imaging, vol. 7, pp. 584-597, 2021.
 
 Edited by Yu Liu.   
 
 Usage of this code is free for research purposes only. 
 
-The DPCN model is learned by tensorflow. The training code will be released if the paper could be accepted for publication. 
-
-Thank you.
+Please refer to the above publication if you use this code. Thank you.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -34,4 +32,4 @@ Contact:
     Homepage: https://sites.google.com/site/yuliu316316; https://github.com/yuliu316316
 
 
-Last update: 12-Apr-2021
+Last update: 27-July-2022
