@@ -4,7 +4,7 @@ This package contains the source code which is associated with the following pap
 
 Wei Tang, Yu Liu, Juan Cheng, Chang Li, Xun Chen, "Green Fluorescent Protein and Phase Contrast Image Fusion via Detail Preserving Cross Network", IEEE Transactions on Computational Imaging, vol. 7, pp. 584-597, 2021.
 
-Edited by Yu Liu.   
+Edited by Wei Tang and Yu Liu.   
 
 Usage of this code is free for research purposes only. 
 
